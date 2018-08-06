@@ -1,4 +1,4 @@
-package ffb;
+package lab.datascience.insight;
 
 public class FieldsFileCSV {
 
@@ -14,7 +14,6 @@ public class FieldsFileCSV {
 
 	public FieldsFileCSV() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public FieldsFileCSV(String report_date, String location, String location_type, String data_field,
